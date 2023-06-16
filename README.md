@@ -10,9 +10,11 @@ Este repositório é destinado exclusivamente para as landing pages desenvolvida
 
 - [Projeto Cordel](https://felilpz.github.io/projeto-cordel/)
 
-- [FEM - PRODUCT REVIEW CARD COMPONENT] (https://felilpz.github.io/Product-preview-card-component/)
+- [FEM - PRODUCT REVIEW CARD COMPONENT](https://felilpz.github.io/Product-preview-card-component/)
 
-Os projetos não estão organizados em uma ordem específica. Algumas landing pages foram desenvolvidas com mais conhecimento e experiência do que outras, portanto, a ordem em que estão apresentadas não representa necessariamente a qualidade de cada projeto
+- [Acme Web Solutions](https://felilpz.github.io/Basic-Landing-Page/)
+
+<strong>Os projetos não estão organizados em uma ordem específica</strong>. Algumas landing pages foram desenvolvidas com mais conhecimento e experiência do que outras, portanto, a ordem em que estão apresentadas não representa necessariamente a qualidade de cada projeto
 
 
 ### Contribuição
