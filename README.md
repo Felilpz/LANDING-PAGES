@@ -14,6 +14,8 @@ Este repositório é destinado exclusivamente para as landing pages desenvolvida
 
 - [Acme Web Solutions](https://felilpz.github.io/Basic-Landing-Page/)
 
+- [Stats Preview Card Component](https://felilpz.github.io/stats-preview-card-component/)
+
 <strong>Os projetos não estão organizados em uma ordem específica</strong>. Algumas landing pages foram desenvolvidas com mais conhecimento e experiência do que outras, portanto, a ordem em que estão apresentadas não representa necessariamente a qualidade de cada projeto
 
 
